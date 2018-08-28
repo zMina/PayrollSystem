@@ -48,7 +48,7 @@ public class BasePlusCommissionEmployee extends CommissionEmployee
          "base-salaried", super.toString(),                            
          "base salary", getBaseSalary());                             
    } 
-} // end class BasePlusCommissionEmployee 1 2 3
+} // end class BasePlusCommissionEmployee
 
 
 
